@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap");
+
+.title-uno {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 10rem;
+  border: 2rem;
+  color: aqua;
+}
